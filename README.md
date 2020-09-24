@@ -1,7 +1,7 @@
 # VirtualPiano
-Virtual Piano in Java using Jframe.
+Virtual Piano using JavaScript.
 
-For a fun little project, I made a Piano app using java.
+I made a fun onscreen piano which also works with the keyboard.
 
 **************************************************
                  HOW TO USE 
