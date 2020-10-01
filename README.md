@@ -1,5 +1,5 @@
 # VirtualPiano
-Virtual Piano using JavaScript.
+Virtual Piano using JavaScript and HTML.
 
 I made a fun onscreen piano which also works with the keyboard.
 
